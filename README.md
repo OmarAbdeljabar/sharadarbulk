@@ -1,4 +1,4 @@
-# sharadarbulkload
+# sharadarbulk
 Downloads Sharadar data and uploads to PostgreSQL.
 
 ## Setup
