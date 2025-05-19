@@ -13,5 +13,5 @@ Downloads Sharadar data and uploads to PostgreSQL.
     "password": "123456",
     "host": "localhost",
     "port": "5432"
-6. Set 'DEST_DIR' in 'Postgresinsert.py'
+6. Set 'data_folder' in 'Postgresinsert.py'
 7. Run: 'Postgresinsert.py'
