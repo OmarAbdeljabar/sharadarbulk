@@ -1,0 +1,4 @@
+requests
+tqdm
+pandas
+psycopg2-binary
